@@ -1,7 +1,7 @@
 # FistroBot
 
 Based on [Botkit Starter Web](https://github.com/howdyai/botkit-starter-web)
-More info in [danielprimo.io](https://www.danielprimo.io/blog)
+More info at [danielprimo.io](https://www.danielprimo.io/blog)
 
 # THIS IS EXPERIMENTAL SOFTWARE
 
