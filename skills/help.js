@@ -13,7 +13,9 @@ module.exports = function(controller, menu) {
 
     bot.reply(message,'Las frases están extraídas de esta genial colección del blog <a href="http://chiquitodelacalzada.blogspot.com.es/p/frases-miticas.html" target="_blank">Chiquito de la Calzada</a>');
 
-    bot.reply(message,'Si en algún momento te pierdes teclea <strong>ayuda</strong> o <strong>inicio</strong>');
+    bot.reply(message,'Si en algún momento te pierdes teclea <strong>inicio</strong>');
+
+    bot.reply(message,'Prueba también a llamarme <strong>cobarde</strong> o a pedir a Chiquito para <strong>presidente</strong>');
 
     bot.reply(message,'¡Hasta luego Lucas!');
 
