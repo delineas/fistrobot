@@ -1,0 +1,25 @@
+{
+  "name": "fistrobot-web",
+  "description": "Chiquito de la Calzada web bot based on Botkit Starter Web",
+  "keywords": ["node", "bots", "slack","botkit"],
+  "website": "https://www.danielprimo.io",
+  "success_url":"/",
+  "addons":[
+    {
+      "plan": "mongolab",
+      "as": "MONGO"
+    }
+  ],
+  "env": {
+      "clientId": {
+          "description": "Client ID provided by Slack"
+      },
+      "clientSecret": {
+          "description": "Client Secret provided by Slack"
+      },
+      "studio_token": {
+          "description": "Token associated with your bot in Botkit Studio",
+          "required":false
+      }
+  }
+}
