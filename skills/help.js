@@ -9,6 +9,7 @@ module.exports = function(controller, menu) {
 
     bot.reply(message,'El cobarde que ha ejecutado esto es <a href="https://www.danielprimo.io" target="_blank">Dani de danieprimo.io</a>');
     //bot.reply(message,'Si quieres saber más detalles de como está hecho visita <a href="https://www.danielprimo.io" target="_blank">Dani de danieprimo.io</a>');
+	bot.reply(message,'Ayúdame a mejorarlo, si encuentras fallos en <a href="https://github.com/delineas/fistrobot" target="_blank">github</a>');
 
     bot.reply(message,'Las frases están extraídas de esta genial colección del blog <a href="http://chiquitodelacalzada.blogspot.com.es/p/frases-miticas.html" target="_blank">Chiquito de la Calzada</a>');
 
