@@ -1,7 +1,10 @@
 # FistroBot
 
+Un bot de Chiquito de la Calzada
+
 Based on [Botkit Starter Web](https://github.com/howdyai/botkit-starter-web)
 More info at [danielprimo.io](https://www.danielprimo.io/blog)
+
 
 # THIS IS EXPERIMENTAL SOFTWARE
 
